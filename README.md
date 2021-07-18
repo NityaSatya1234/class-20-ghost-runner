@@ -1,1 +1,1 @@
-# class-20-ghost-runner
+# C20
